@@ -1,0 +1,11 @@
+API Call Template
+https://maps.googleapis.com/maps/api/directions/json?origin=&destination=&mode=TRANSIT&key=AIzaSyD6F3UeYLK-JioCMKHFJ0u37OsDhNt5Cj0
+
+Route 1 API Call
+https://maps.googleapis.com/maps/api/directions/json?origin=NES+Office,+SH+9,+Yelahanka+Satellite+Town,+Yelahanka,+Bengaluru,+Karnataka+560064&destination=Hampi+Nagar,+RPC+Layout,+Vijayanagar,+Bengaluru,+Karnataka&mode=transit&&arrival_time=1589873622&key=AIzaSyD6F3UeYLK-JioCMKHFJ0u37OsDhNt5Cj0
+
+
+"o_}nAovqxM{B`CONDBKIg@l@gDbE}EbGY\\XZv@dAl@z@^t@^lA`@rCF|BIhBIh@a@vAxA^xC`AnDlAjKnDzEdB|Ad@Oj@[t@q@jB_@t@cA`B_BbC{@z@eD~CwDhCoAj@}Al@cA`@uBn@kB^XhBP~@`AlJdApJ`AlJPzCH|EJnBFhAP`BF`@@d@C~@PhEXnIAt@SrBG`AJJtAf@pIrDzBr@fBXx@LZJv@p@nFpGzA`BnApAjAxAxBrDfApBl@d@`Ad@n@VrBnAZLdAT^Dl@@bAK~@EhDJp@HVHJHL]\\_APg@|AcFp@}BdBiHHe@\\_AT]l@]fMxBtJzA|FdAjDn@nEfAr@NhB`@nA`@jFfB`Ad@tHvChDlAxGjCt@Zr@gBvAiEZ_BZcDbAiH\\kDTBbEXlAPbGh@`@FZF`A`@z@b@rA\\fFp@fERfIX`AFTAPKj@aARKhACt@@h@FtCz@hAX`ANvCVzARRJXf@WdDDNJNb@VlET`BNvFh@~@D~@EdAa@~C_BzAM~EGzAGTIn@AjAJ|A`@`InBfCv@@AFCFAFB@@fBq@lBm@d@Ct@B`AA`FYpG[vAGbB?pBFpAAbG_@xDYjDOz@F~AXnALd@@l@OtAw@hBiAlDuBp@i@~CqBjBgA|E_DdFeDpAy@h@Uf@E~@L`BNtB?r@Ix@Oj@Q|@_@hAa@pDaAhJoArAQz@AdAPfC|@r@VhBz@zA~@^Xf@b@v@n@ZRrChA|Al@j@NXCnJgSrDuHRGHB@LDNKPsDxGmGxMgAjBc@nAiC`F}@tBCRg@lAe@hA@j@V`@hB~@ITER[n@IZ@PVRV@\\O~@qALAt@b@bAj@x@^j@Zd@f@r@`Aj@hAR~@F`AHXHv@JRZJz@Fx@P~D[nAk@REd@Az@ARTDP?ZMVWZOJ?^BTvAvDlAbDpArCj@pAJNh@h@hBxAr@z@VZXPfA^xBn@bAJzDVlCNr@CdBUt@G`BMJQzBQdCS~Ea@vD[d@BjLsA`Gm@|C]pCa@~GaA~Em@pAKlA?`GH`DFrBVzDt@zJvBbCr@fF`AbDj@jBV|A@tH@lFDhQA~ABd@@ZIt@ChCBzBDn@Hz@PbBp@dBvAbBdA\\x@Jl@LhC@bAC`A@nGX|GYELfAXzBlB|NXzBLb@Vl@z@jAl@h@vAp@fRnEjF~AbExA`C|@FWd@qBxAeGj@_CrBTfD`@zFx@hAL?GC??LBjBq@CGAANEbA?D"
+
+https://www.onefivenine.com/india/head/map
+
