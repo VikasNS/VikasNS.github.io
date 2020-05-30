@@ -141,7 +141,7 @@ function handleFirstMile(map, source) {
 	var busStopCircleCoordinates = [busStopLocation[1], busStopLocation[0]];
 	
 	addMarker(map, sourceCircleCoordinates, "./0.png")
-	plotCircle(map, sourceCircleCoordinates, "#FFD700");
+	//plotCircle(map, sourceCircleCoordinates, "#FFD700");
 	plotCircle(map, busStopCircleCoordinates, "#FFD700");
 	plotPolyLine(map, coordinatesArray, "#FFC0CB");
 	
@@ -166,7 +166,8 @@ function handleLastMile(map, routeCode, destinationCode) {
 function startApplication(map, routeCode, destinationCode) {
 	handleMainTravel(map, routeCode);
 	handleFirstMile(map, null);
-	handleLastMile(map, routeCode, destinationCode)
+	handleLastMile(map, routeCode, destinationCode);
+	map.setZoom(13.5);
 }
 
 function getParamFromURL() {
