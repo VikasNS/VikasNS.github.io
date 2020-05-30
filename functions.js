@@ -140,6 +140,7 @@ function handleFirstMile(map, source) {
 	var sourceCircleCoordinates = [sourceLocation[0], sourceLocation[1]];
 	var busStopCircleCoordinates = [busStopLocation[1], busStopLocation[0]];
 	
+	addMarker(map, sourceCircleCoordinates, "./0.png")
 	plotCircle(map, sourceCircleCoordinates, "#FFD700");
 	plotCircle(map, busStopCircleCoordinates, "#FFD700");
 	plotPolyLine(map, coordinatesArray, "#FFC0CB");
